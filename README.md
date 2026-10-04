@@ -11,7 +11,7 @@ pnpm test
 pnpm build
 ```
 
-Сборка использует `base: /VeraAI/` и HashRouter, поэтому совместима с GitHub Pages. Workflow: `.github/workflows/deploy-pages.yml`.
+Сборка использует `base: /VERITAS/` и HashRouter, поэтому совместима с GitHub Pages. Workflow: `.github/workflows/deploy-pages.yml`.
 
 ## Draft scope
 
